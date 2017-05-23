@@ -7,4 +7,11 @@
   <link rel="stylesheet" type='text/css' media='all' href="css/colors.css">
   <link rel="stylesheet" type='text/css' media='all' href="css/svg-icons.css"> 
 </head>
+
+<body>
+
+<input type="radio" name="color" value="blue">藍色<br>
+
+</body>
+
 </html>
