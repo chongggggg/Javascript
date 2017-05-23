@@ -2,4 +2,9 @@
 <html>
 <head>
 <META http-equiv="Content-Type" content="text/html;charset=big 5">
-  <title>
+  <title>費文產生器</title>
+  <link rel="stylesheet"type="text/css" media="all" href="css/base.css">
+  <link rel="stylesheet" type='text/css' media='all' href="css/colors.css">
+  <link rel="stylesheet" type='text/css' media='all' href="css/svg-icons.css"> 
+</head>
+</html>
